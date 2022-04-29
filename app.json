@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/aakash2021-cap/filterbot.git",
+    "website": "https://github.com/aakash2021-cap/filterbot",
     "repository": "https://github.com/aakash2021-cap/filterbot",
     "env": {
         "BOT_TOKEN": {
